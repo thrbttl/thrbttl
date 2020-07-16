@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-Freelance Developer with Js & VueJs
+Freelance Developer with Js & VueJs 🖖
 My bombastik web site 💻 https://tahirbattal.com.tr/ 😄
 
 
