@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 Freelance Developer with Js & VueJs
+My bombastik web site 💻 https://tahirbattal.com.tr/ 😄
+
 
 <!--
 **thrbttl1/thrbttl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
