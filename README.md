@@ -1,7 +1,9 @@
 ### Hi there 👋 
 
-Freelance Developer with Js & VueJs 🖖
-My bombastik web site 💻 https://tahirbattal.com.tr/ 😄
+Freelance Developer with Js & VueJs, Laravel 🖖
+<!--
+[My bombastik web site 💻 https://tahirbattal.com.tr/ 😄](url)
+-->
 
 
 <!--
